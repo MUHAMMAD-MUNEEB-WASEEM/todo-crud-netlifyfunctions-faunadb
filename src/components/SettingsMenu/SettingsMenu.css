@@ -51,9 +51,6 @@
   border: 1px solid;
   font-size: 12px;
   cursor: pointer;
-  &:hover, &.activeClass {
-    color: #fff;
-  }
 }
 
 @media (max-width: 768px) {
